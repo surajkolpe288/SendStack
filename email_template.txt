@@ -1,0 +1,12 @@
+Dear {name},
+
+I hope you are doing well. I am writing to express my interest in the {job_role} position at {company}. 
+{custom_note}
+
+Please find attached my resume for your reference.
+
+Looking forward to hearing from you.
+
+Best regards,  
+[Your Full Name]  
+[Your Contact Info]
