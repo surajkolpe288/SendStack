@@ -26,10 +26,15 @@ Example Directory Structure:
 sendstack/
 │
 ├── main.py
+
 ├── config.py
+
 ├── resume.pdf
+
 ├── email_template.txt
+
 ├── contacts.csv
+
 ├── sent_log.csv  ← Generated after running the script
 
 License
