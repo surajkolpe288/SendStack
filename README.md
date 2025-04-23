@@ -22,6 +22,7 @@ SendStack is a simple and efficient Python-based bulk email automation tool that
 6. Add attachements (If needed)
 
 Example Directory Structure:
+
 sendstack/
 │
 ├── main.py
